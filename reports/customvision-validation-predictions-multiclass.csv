@@ -1,0 +1,249 @@
+path,actual,predicted,confidence,prob_minor,prob_moderate,prob_severe
+data/raw/data3a/validation/01-minor/0001.JPEG,minor,minor,0.60213995,0.60213995,0.08581529,0.31204471
+data/raw/data3a/validation/01-minor/0002.JPEG,minor,moderate,0.42250726,0.28946629,0.42250726,0.28802642
+data/raw/data3a/validation/01-minor/0003.JPEG,minor,minor,0.88050157,0.88050157,0.08758411,0.03191431
+data/raw/data3a/validation/01-minor/0004.JPEG,minor,minor,0.64981824,0.64981824,0.25363261,0.09654913
+data/raw/data3a/validation/01-minor/0005.JPEG,minor,minor,0.44632557,0.44632557,0.39825919,0.15541525
+data/raw/data3a/validation/01-minor/0006.JPEG,minor,minor,0.85776085,0.85776085,0.06277113,0.07946806
+data/raw/data3a/validation/01-minor/0007.JPEG,minor,minor,0.85819596,0.85819596,0.08642392,0.05538013
+data/raw/data3a/validation/01-minor/0008.jpeg,minor,minor,0.79777193,0.79777193,0.18746263,0.0147654
+data/raw/data3a/validation/01-minor/0009.jpeg,minor,minor,0.89926207,0.89926207,0.09946253,0.00127531
+data/raw/data3a/validation/01-minor/0010.JPEG,minor,minor,0.93332601,0.93332601,0.06231789,0.00435605
+data/raw/data3a/validation/01-minor/0011.jpeg,minor,minor,0.79076648,0.79076648,0.1575084,0.05172521
+data/raw/data3a/validation/01-minor/0012.JPEG,minor,minor,0.46636957,0.46636957,0.45691261,0.07671785
+data/raw/data3a/validation/01-minor/0013.JPEG,minor,minor,0.66705686,0.66705686,0.24267088,0.09027234
+data/raw/data3a/validation/01-minor/0014.JPEG,minor,minor,0.61167872,0.61167872,0.28051981,0.10780145
+data/raw/data3a/validation/01-minor/0015.JPEG,minor,minor,0.89783442,0.89783442,0.09543604,0.00672949
+data/raw/data3a/validation/01-minor/0016.JPEG,minor,minor,0.89129353,0.89129353,0.08382196,0.02488453
+data/raw/data3a/validation/01-minor/0017.JPEG,minor,minor,0.65710896,0.65710896,0.07548479,0.26740628
+data/raw/data3a/validation/01-minor/0018.JPEG,minor,minor,0.58441865,0.58441865,0.37615317,0.0394282
+data/raw/data3a/validation/01-minor/0019.JPEG,minor,minor,0.82594419,0.82594419,0.14974946,0.02430634
+data/raw/data3a/validation/01-minor/0020.JPEG,minor,moderate,0.54957819,0.22224715,0.54957819,0.22817469
+data/raw/data3a/validation/01-minor/0021.JPEG,minor,moderate,0.74989384,0.1979176,0.74989384,0.05218859
+data/raw/data3a/validation/01-minor/0022.JPEG,minor,minor,0.68473291,0.68473291,0.08219183,0.23307526
+data/raw/data3a/validation/01-minor/0023.JPEG,minor,minor,0.63585103,0.63585103,0.35129786,0.01285113
+data/raw/data3a/validation/01-minor/0024.JPEG,minor,minor,0.88029081,0.88029081,0.08188263,0.03782657
+data/raw/data3a/validation/01-minor/0025.JPEG,minor,minor,0.55175686,0.55175686,0.33907819,0.10916501
+data/raw/data3a/validation/01-minor/0026.JPEG,minor,severe,0.36054423,0.31219828,0.32725754,0.36054423
+data/raw/data3a/validation/01-minor/0027.jpeg,minor,minor,0.99019861,0.99019861,0.00428726,0.00551413
+data/raw/data3a/validation/01-minor/0028.JPEG,minor,moderate,0.58821517,0.22106194,0.58821517,0.19072293
+data/raw/data3a/validation/01-minor/0029.JPEG,minor,severe,0.7172994,0.22540502,0.05729553,0.7172994
+data/raw/data3a/validation/01-minor/0030.JPEG,minor,minor,0.90704197,0.90704197,0.0521146,0.04084347
+data/raw/data3a/validation/01-minor/0031.JPEG,minor,minor,0.96437865,0.96437865,0.02873014,0.00689122
+data/raw/data3a/validation/01-minor/0032.JPEG,minor,minor,0.74390912,0.74390912,0.0494156,0.20667526
+data/raw/data3a/validation/01-minor/0033.JPEG,minor,severe,0.88856173,0.05848372,0.05295456,0.88856173
+data/raw/data3a/validation/01-minor/0034.JPEG,minor,minor,0.86321318,0.86321318,0.13086076,0.00592604
+data/raw/data3a/validation/01-minor/0035.JPEG,minor,minor,0.88798743,0.88798743,0.07234696,0.03966549
+data/raw/data3a/validation/01-minor/0036.JPEG,minor,severe,0.79672998,0.03605318,0.16721684,0.79672998
+data/raw/data3a/validation/01-minor/0037.JPEG,minor,moderate,0.55485785,0.32238129,0.55485785,0.1227609
+data/raw/data3a/validation/01-minor/0038.JPEG,minor,minor,0.75109535,0.75109535,0.22190014,0.02700441
+data/raw/data3a/validation/01-minor/0039.JPEG,minor,minor,0.83133924,0.83133924,0.05710487,0.11155586
+data/raw/data3a/validation/01-minor/0040.JPEG,minor,minor,0.84458911,0.84458911,0.14190109,0.01350971
+data/raw/data3a/validation/01-minor/0041.JPEG,minor,minor,0.63393939,0.63393939,0.13538812,0.23067255
+data/raw/data3a/validation/01-minor/0042.JPEG,minor,minor,0.75909364,0.75909364,0.15956572,0.08134066
+data/raw/data3a/validation/01-minor/0043.JPEG,minor,minor,0.40648499,0.40648499,0.21884862,0.37466648
+data/raw/data3a/validation/01-minor/0044.JPEG,minor,severe,0.64842236,0.29789206,0.05368563,0.64842236
+data/raw/data3a/validation/01-minor/0045.JPEG,minor,minor,0.8801831,0.8801831,0.04020789,0.07960902
+data/raw/data3a/validation/01-minor/0046.JPEG,minor,moderate,0.67279255,0.08094692,0.67279255,0.24626052
+data/raw/data3a/validation/01-minor/0047.JPEG,minor,minor,0.43440396,0.43440396,0.22660339,0.3389926
+data/raw/data3a/validation/01-minor/0048.JPEG,minor,minor,0.98788154,0.98788154,0.01141271,0.0007058
+data/raw/data3a/validation/01-minor/cf1fd966d69f48b89d424463183e8388_thb.jpg,minor,minor,0.78960681,0.78960681,0.11436284,0.09603036
+data/raw/data3a/validation/01-minor/download (3).jpeg,minor,minor,0.95893294,0.95893294,0.03961708,0.00144996
+data/raw/data3a/validation/01-minor/download.jpeg,minor,minor,0.85663462,0.85663462,0.10946777,0.03389759
+data/raw/data3a/validation/01-minor/e9e9890e7b514e51a49442c72f463430_thb.jpg,minor,moderate,0.51553679,0.38571468,0.51553679,0.09874859
+data/raw/data3a/validation/01-minor/images (1).jpeg,minor,minor,0.88202721,0.88202721,0.06913336,0.04883941
+data/raw/data3a/validation/01-minor/images (100).jpeg,minor,minor,0.95784682,0.95784682,0.01915987,0.0229933
+data/raw/data3a/validation/01-minor/images (2).jpeg,minor,minor,0.68866068,0.68866068,0.05220155,0.25913775
+data/raw/data3a/validation/01-minor/images (20).jpeg,minor,moderate,0.40492603,0.33796456,0.40492603,0.2571094
+data/raw/data3a/validation/01-minor/images (3).jpeg,minor,minor,0.77291876,0.77291876,0.20695835,0.02012292
+data/raw/data3a/validation/01-minor/images (33).jpeg,minor,minor,0.99237788,0.99237788,0.0064896,0.00113247
+data/raw/data3a/validation/01-minor/images (42).jpeg,minor,minor,0.51054066,0.51054066,0.07734139,0.41211796
+data/raw/data3a/validation/01-minor/images (43).jpeg,minor,minor,0.45623592,0.45623592,0.32211623,0.2216479
+data/raw/data3a/validation/01-minor/images (52).jpeg,minor,minor,0.99223459,0.99223459,0.00714027,0.00062518
+data/raw/data3a/validation/01-minor/images (59).jpeg,minor,minor,0.84277636,0.84277636,0.1453132,0.01191043
+data/raw/data3a/validation/01-minor/images (6).jpeg,minor,moderate,0.58908981,0.21434005,0.58908981,0.19657017
+data/raw/data3a/validation/01-minor/images (60).jpeg,minor,minor,0.80367309,0.80367309,0.01079316,0.18553379
+data/raw/data3a/validation/01-minor/images (65).jpeg,minor,minor,0.73772305,0.73772305,0.25756997,0.00470702
+data/raw/data3a/validation/01-minor/images (68).jpeg,minor,minor,0.91018993,0.91018993,0.02158544,0.06822465
+data/raw/data3a/validation/01-minor/images (69).jpeg,minor,minor,0.98142368,0.98142368,0.01840968,0.00016665
+data/raw/data3a/validation/01-minor/images (74).jpeg,minor,minor,0.97705519,0.97705519,0.01391005,0.00903472
+data/raw/data3a/validation/01-minor/images (75).jpeg,minor,minor,0.98527098,0.98527098,0.01425822,0.00047078
+data/raw/data3a/validation/01-minor/images (80).jpeg,minor,minor,0.98140967,0.98140967,0.01721245,0.0013778
+data/raw/data3a/validation/01-minor/images (81).jpeg,minor,minor,0.74506706,0.74506706,0.23404297,0.0208899
+data/raw/data3a/validation/01-minor/images (84).jpeg,minor,minor,0.96751797,0.96751797,0.02609192,0.00639017
+data/raw/data3a/validation/01-minor/images (89).jpeg,minor,moderate,0.50274736,0.3406615,0.50274736,0.15659112
+data/raw/data3a/validation/01-minor/images (90).jpeg,minor,minor,0.96993232,0.96993232,0.02956493,0.00050276
+data/raw/data3a/validation/01-minor/images (95).jpeg,minor,severe,0.55114502,0.39442071,0.05443424,0.55114502
+data/raw/data3a/validation/01-minor/images - 2022-12-12T151412.407.jpeg,minor,moderate,0.59765565,0.19660103,0.59765565,0.20574328
+data/raw/data3a/validation/01-minor/images - 2022-12-12T151419.502.jpeg,minor,moderate,0.43945891,0.16821221,0.43945891,0.3923288
+data/raw/data3a/validation/01-minor/images - 2022-12-13T213954.926.jpeg,minor,minor,0.99239939,0.99239939,0.00211306,0.00548764
+data/raw/data3a/validation/01-minor/images - 2022-12-13T213954.983.jpeg,minor,minor,0.96244222,0.96244222,0.02954056,0.00801724
+data/raw/data3a/validation/01-minor/images - 2022-12-13T213955.048.jpeg,minor,minor,0.93331522,0.93331522,0.06554087,0.00114396
+data/raw/data3a/validation/01-minor/images - 2022-12-13T213955.333.jpeg,minor,minor,0.69052404,0.69052404,0.22875838,0.08071762
+data/raw/data3a/validation/01-minor/images.jpeg,minor,minor,0.77553385,0.77553385,0.12348826,0.10097784
+data/raw/data3a/validation/02-moderate/0001.JPEG,moderate,severe,0.8941958,0.0428072,0.06299705,0.8941958
+data/raw/data3a/validation/02-moderate/0002.JPEG,moderate,severe,0.73319572,0.011976,0.25482833,0.73319572
+data/raw/data3a/validation/02-moderate/0003.JPEG,moderate,severe,0.53246897,0.36389562,0.10363534,0.53246897
+data/raw/data3a/validation/02-moderate/0004.JPEG,moderate,moderate,0.8229717,0.06317732,0.8229717,0.113851
+data/raw/data3a/validation/02-moderate/0005.JPEG,moderate,minor,0.6600728,0.6600728,0.19638972,0.14353748
+data/raw/data3a/validation/02-moderate/0006.JPEG,moderate,moderate,0.57030344,0.02284394,0.57030344,0.40685266
+data/raw/data3a/validation/02-moderate/0007.JPEG,moderate,severe,0.5467416,0.39604411,0.05721437,0.5467416
+data/raw/data3a/validation/02-moderate/0008.JPEG,moderate,severe,0.76007837,0.08170982,0.15821177,0.76007837
+data/raw/data3a/validation/02-moderate/0009.JPEG,moderate,moderate,0.61485851,0.13757813,0.61485851,0.24756339
+data/raw/data3a/validation/02-moderate/0010.JPEG,moderate,minor,0.65992039,0.65992039,0.21797805,0.12210153
+data/raw/data3a/validation/02-moderate/0011.jpeg,moderate,minor,0.41113976,0.41113976,0.34276634,0.24609388
+data/raw/data3a/validation/02-moderate/0012.jpeg,moderate,minor,0.84336776,0.84336776,0.12179653,0.03483571
+data/raw/data3a/validation/02-moderate/0013.JPEG,moderate,severe,0.94157028,0.01562489,0.04280483,0.94157028
+data/raw/data3a/validation/02-moderate/0014.JPEG,moderate,severe,0.73118824,0.01994485,0.24886698,0.73118824
+data/raw/data3a/validation/02-moderate/0015.jpeg,moderate,severe,0.73613507,0.02080645,0.24305849,0.73613507
+data/raw/data3a/validation/02-moderate/0016.JPEG,moderate,minor,0.46439725,0.46439725,0.36926824,0.16633445
+data/raw/data3a/validation/02-moderate/0017.JPEG,moderate,severe,0.45590568,0.22849123,0.31560314,0.45590568
+data/raw/data3a/validation/02-moderate/0018.JPEG,moderate,moderate,0.55051225,0.27048281,0.55051225,0.17900495
+data/raw/data3a/validation/02-moderate/0019.JPEG,moderate,minor,0.37586352,0.37586352,0.33976811,0.28436831
+data/raw/data3a/validation/02-moderate/0020.JPEG,moderate,severe,0.65924346,0.24211812,0.09863847,0.65924346
+data/raw/data3a/validation/02-moderate/0021.JPEG,moderate,moderate,0.46382803,0.2903603,0.46382803,0.24581176
+data/raw/data3a/validation/02-moderate/0022.JPEG,moderate,severe,0.62905735,0.03358633,0.33735636,0.62905735
+data/raw/data3a/validation/02-moderate/0023.JPEG,moderate,severe,0.82276779,0.00487088,0.17236133,0.82276779
+data/raw/data3a/validation/02-moderate/0024.jpeg,moderate,moderate,0.46686065,0.23432681,0.46686065,0.29881254
+data/raw/data3a/validation/02-moderate/0025.JPEG,moderate,severe,0.45713788,0.10302277,0.43983939,0.45713788
+data/raw/data3a/validation/02-moderate/0026.JPEG,moderate,severe,0.68520653,0.22175699,0.09303644,0.68520653
+data/raw/data3a/validation/02-moderate/0027.JPEG,moderate,moderate,0.80929458,0.14711465,0.80929458,0.04359079
+data/raw/data3a/validation/02-moderate/0028.JPEG,moderate,severe,0.98068124,0.00025579,0.01906295,0.98068124
+data/raw/data3a/validation/02-moderate/0029.JPEG,moderate,moderate,0.69194168,0.09634463,0.69194168,0.21171366
+data/raw/data3a/validation/02-moderate/0030.JPEG,moderate,severe,0.67479956,0.03288848,0.29231194,0.67479956
+data/raw/data3a/validation/02-moderate/0031.JPEG,moderate,severe,0.81137443,0.04779457,0.14083096,0.81137443
+data/raw/data3a/validation/02-moderate/0032.JPEG,moderate,severe,0.37624967,0.33379605,0.28995436,0.37624967
+data/raw/data3a/validation/02-moderate/0033.JPEG,moderate,moderate,0.54763204,0.1530745,0.54763204,0.29929349
+data/raw/data3a/validation/02-moderate/0034.JPEG,moderate,severe,0.96822429,0.00782753,0.02394819,0.96822429
+data/raw/data3a/validation/02-moderate/0035.JPEG,moderate,moderate,0.49178755,0.25178421,0.49178755,0.25642821
+data/raw/data3a/validation/02-moderate/0036.JPEG,moderate,severe,0.71519679,0.03129747,0.25350577,0.71519679
+data/raw/data3a/validation/02-moderate/0037.JPEG,moderate,minor,0.67879683,0.67879683,0.04885611,0.27234709
+data/raw/data3a/validation/02-moderate/0038.JPEG,moderate,minor,0.94694626,0.94694626,0.02678319,0.02627052
+data/raw/data3a/validation/02-moderate/0039.JPEG,moderate,minor,0.48365918,0.48365918,0.29083154,0.22550927
+data/raw/data3a/validation/02-moderate/0040.JPEG,moderate,moderate,0.40376756,0.36746103,0.40376756,0.22877134
+data/raw/data3a/validation/02-moderate/0041.JPEG,moderate,severe,0.38536894,0.23633243,0.37829861,0.38536894
+data/raw/data3a/validation/02-moderate/0042.JPEG,moderate,moderate,0.44144157,0.4175204,0.44144157,0.14103808
+data/raw/data3a/validation/02-moderate/0043.JPEG,moderate,severe,0.3842026,0.31635773,0.2994397,0.3842026
+data/raw/data3a/validation/02-moderate/0044.JPEG,moderate,severe,0.42891705,0.42839316,0.14268973,0.42891705
+data/raw/data3a/validation/02-moderate/0045.JPEG,moderate,moderate,0.36473837,0.31489643,0.36473837,0.32036516
+data/raw/data3a/validation/02-moderate/0046.JPEG,moderate,moderate,0.70734394,0.14202227,0.70734394,0.15063374
+data/raw/data3a/validation/02-moderate/0047.JPEG,moderate,minor,0.34998551,0.34998551,0.33356813,0.31644633
+data/raw/data3a/validation/02-moderate/0048.JPEG,moderate,severe,0.55551177,0.0992125,0.34527576,0.55551177
+data/raw/data3a/validation/02-moderate/0049.JPEG,moderate,moderate,0.66976857,0.26373285,0.66976857,0.06649865
+data/raw/data3a/validation/02-moderate/0050.JPEG,moderate,minor,0.81314474,0.81314474,0.11134548,0.07550982
+data/raw/data3a/validation/02-moderate/0051.JPEG,moderate,minor,0.46888912,0.46888912,0.09893208,0.43217883
+data/raw/data3a/validation/02-moderate/0052.JPEG,moderate,minor,0.47641686,0.47641686,0.27499104,0.24859203
+data/raw/data3a/validation/02-moderate/0053.JPEG,moderate,severe,0.6856457,0.17819102,0.13616328,0.6856457
+data/raw/data3a/validation/02-moderate/0054.JPEG,moderate,severe,0.51170069,0.15354961,0.33474976,0.51170069
+data/raw/data3a/validation/02-moderate/0055.JPEG,moderate,moderate,0.68068564,0.15904397,0.68068564,0.16027033
+data/raw/data3a/validation/02-moderate/0e780a7b917f4ed4ba5d5f4dfd9907d4_thb.jpg,moderate,minor,0.79096645,0.79096645,0.12604401,0.08298955
+data/raw/data3a/validation/02-moderate/495920c32ade4ac6ae7f9788fd7dfd24_thb.jpg,moderate,minor,0.52155435,0.52155435,0.42047083,0.0579748
+data/raw/data3a/validation/02-moderate/4d9f21ac40954a348560ce60af2b69f9_thb.jpg,moderate,minor,0.8183887,0.8183887,0.14532262,0.03628865
+data/raw/data3a/validation/02-moderate/8a70da31f2cd423cbc07988b0be52115_thb.jpg,moderate,minor,0.50934017,0.50934017,0.22500302,0.26565689
+data/raw/data3a/validation/02-moderate/9a620aee6a7f4a4b8d90f1f8181bc880_thb.jpg,moderate,minor,0.58241135,0.58241135,0.30265287,0.11493587
+data/raw/data3a/validation/02-moderate/a34374b52d3f4a7baf7767853de3b285_thb.jpg,moderate,minor,0.49324125,0.49324125,0.37820154,0.12855724
+data/raw/data3a/validation/02-moderate/ad321d3a82934b77aa5a4a9431e43b85_thb.jpg,moderate,minor,0.71271336,0.71271336,0.23674484,0.05054178
+data/raw/data3a/validation/02-moderate/da7301dfd988492fb368ad5102fbf708_thb.jpg,moderate,minor,0.51807958,0.51807958,0.39664042,0.08528002
+data/raw/data3a/validation/02-moderate/download (18).jpeg,moderate,severe,0.97429979,0.00035657,0.0253437,0.97429979
+data/raw/data3a/validation/02-moderate/download (19).jpeg,moderate,moderate,0.38127786,0.27421424,0.38127786,0.34450784
+data/raw/data3a/validation/02-moderate/download (20).jpeg,moderate,severe,0.9506011,0.00882858,0.04057029,0.9506011
+data/raw/data3a/validation/02-moderate/download (21).jpeg,moderate,moderate,0.84189391,0.00529325,0.84189391,0.15281285
+data/raw/data3a/validation/02-moderate/download (28).jpeg,moderate,severe,0.56379789,0.11196107,0.32424098,0.56379789
+data/raw/data3a/validation/02-moderate/e060a4b36c4d48caba0b12da354d3585_thb.jpg,moderate,minor,0.79496342,0.79496342,0.14617009,0.05886656
+data/raw/data3a/validation/02-moderate/fd331abd8e3b4b17ab87268a356b1b5e_thb.jpg,moderate,moderate,0.44200593,0.26238084,0.44200593,0.2956132
+data/raw/data3a/validation/02-moderate/images (4).jpeg,moderate,severe,0.53875583,0.08289663,0.37834761,0.53875583
+data/raw/data3a/validation/02-moderate/images (50).jpeg,moderate,moderate,0.51061636,0.09398594,0.51061636,0.39539775
+data/raw/data3a/validation/02-moderate/images (60).jpeg,moderate,moderate,0.6904853,0.26096746,0.6904853,0.04854718
+data/raw/data3a/validation/02-moderate/images (63).jpeg,moderate,moderate,0.36170715,0.3023065,0.36170715,0.33598638
+data/raw/data3a/validation/02-moderate/images (65).jpeg,moderate,moderate,0.64683443,0.09689045,0.64683443,0.25627518
+data/raw/data3a/validation/03-severe/0001.JPEG,severe,severe,0.99101537,0.00222969,0.00675495,0.99101537
+data/raw/data3a/validation/03-severe/0002.JPEG,severe,severe,0.8484872,0.00410574,0.14740701,0.8484872
+data/raw/data3a/validation/03-severe/0003.JPEG,severe,severe,0.79470432,0.02495643,0.18033926,0.79470432
+data/raw/data3a/validation/03-severe/0004.JPEG,severe,severe,0.72289336,0.09466186,0.18244477,0.72289336
+data/raw/data3a/validation/03-severe/0005.JPEG,severe,severe,0.89917386,0.02922409,0.07160206,0.89917386
+data/raw/data3a/validation/03-severe/0006.JPEG,severe,severe,0.92449939,0.00883803,0.06666255,0.92449939
+data/raw/data3a/validation/03-severe/0007.JPEG,severe,severe,0.93254399,0.00522368,0.06223234,0.93254399
+data/raw/data3a/validation/03-severe/0008.JPEG,severe,severe,0.69007337,0.04104284,0.26888382,0.69007337
+data/raw/data3a/validation/03-severe/0009.JPEG,severe,moderate,0.59023571,0.01836442,0.59023571,0.39139986
+data/raw/data3a/validation/03-severe/0010.jpeg,severe,severe,0.7135601,0.02561007,0.26082984,0.7135601
+data/raw/data3a/validation/03-severe/0011.JPEG,severe,severe,0.96541238,0.00330385,0.03128382,0.96541238
+data/raw/data3a/validation/03-severe/0012.JPEG,severe,severe,0.72172683,0.01810518,0.26016796,0.72172683
+data/raw/data3a/validation/03-severe/0013.JPEG,severe,severe,0.82416826,0.00303778,0.17279394,0.82416826
+data/raw/data3a/validation/03-severe/0014.JPEG,severe,severe,0.98159057,0.00218868,0.01622076,0.98159057
+data/raw/data3a/validation/03-severe/0015.JPEG,severe,severe,0.71277088,0.01725004,0.26997909,0.71277088
+data/raw/data3a/validation/03-severe/0016.JPEG,severe,severe,0.93730396,0.00293106,0.05976498,0.93730396
+data/raw/data3a/validation/03-severe/0017.JPEG,severe,moderate,0.74514925,0.19251142,0.74514925,0.0623393
+data/raw/data3a/validation/03-severe/0018.JPEG,severe,severe,0.9887799,0.00080648,0.01041362,0.9887799
+data/raw/data3a/validation/03-severe/0019.JPEG,severe,severe,0.91690642,0.05116513,0.03192845,0.91690642
+data/raw/data3a/validation/03-severe/0020.JPEG,severe,moderate,0.58766633,0.00787568,0.58766633,0.40445793
+data/raw/data3a/validation/03-severe/0021.JPEG,severe,severe,0.75057727,0.07450215,0.17492051,0.75057727
+data/raw/data3a/validation/03-severe/0022.JPEG,severe,moderate,0.6023168,0.15096678,0.6023168,0.24671647
+data/raw/data3a/validation/03-severe/0023.JPEG,severe,moderate,0.47059551,0.08228546,0.47059551,0.44711894
+data/raw/data3a/validation/03-severe/0024.JPEG,severe,severe,0.98816943,0.00022606,0.01160446,0.98816943
+data/raw/data3a/validation/03-severe/0025.JPEG,severe,severe,0.97265673,0.00142018,0.02592309,0.97265673
+data/raw/data3a/validation/03-severe/0026.JPEG,severe,severe,0.39514959,0.33567697,0.26917338,0.39514959
+data/raw/data3a/validation/03-severe/0027.JPEG,severe,severe,0.93006814,0.01115772,0.05877411,0.93006814
+data/raw/data3a/validation/03-severe/0028.JPEG,severe,severe,0.85897911,0.00917312,0.13184775,0.85897911
+data/raw/data3a/validation/03-severe/0029.JPEG,severe,moderate,0.50867504,0.11694463,0.50867504,0.37438035
+data/raw/data3a/validation/03-severe/0030.JPEG,severe,severe,0.76352108,0.00975921,0.22671977,0.76352108
+data/raw/data3a/validation/03-severe/0031.JPEG,severe,moderate,0.54643708,0.00303554,0.54643708,0.4505274
+data/raw/data3a/validation/03-severe/0032.JPEG,severe,severe,0.96036065,0.01303483,0.02660455,0.96036065
+data/raw/data3a/validation/03-severe/0033.JPEG,severe,severe,0.94533366,0.01229036,0.04237597,0.94533366
+data/raw/data3a/validation/03-severe/0034.JPEG,severe,moderate,0.50454414,0.019742,0.50454414,0.47571382
+data/raw/data3a/validation/03-severe/0035.JPEG,severe,severe,0.96749049,0.00458303,0.02792641,0.96749049
+data/raw/data3a/validation/03-severe/0036.jpeg,severe,severe,0.66765863,0.13938303,0.19295833,0.66765863
+data/raw/data3a/validation/03-severe/0037.jpeg,severe,severe,0.85564637,0.00784292,0.13651076,0.85564637
+data/raw/data3a/validation/03-severe/0038.JPEG,severe,moderate,0.54020524,0.11874854,0.54020524,0.34104627
+data/raw/data3a/validation/03-severe/0039.JPEG,severe,severe,0.94257593,0.00222245,0.05520165,0.94257593
+data/raw/data3a/validation/03-severe/0040.JPEG,severe,severe,0.95840693,0.0027058,0.03888723,0.95840693
+data/raw/data3a/validation/03-severe/0041.JPEG,severe,severe,0.91227216,0.00094259,0.08678523,0.91227216
+data/raw/data3a/validation/03-severe/0042.JPEG,severe,minor,0.55520481,0.55520481,0.12362638,0.32116878
+data/raw/data3a/validation/03-severe/0043.JPEG,severe,severe,0.76602358,0.0893098,0.1446666,0.76602358
+data/raw/data3a/validation/03-severe/0044.JPEG,severe,moderate,0.54582566,0.1124316,0.54582566,0.34174275
+data/raw/data3a/validation/03-severe/0045.JPEG,severe,severe,0.67034173,0.00242247,0.32723576,0.67034173
+data/raw/data3a/validation/03-severe/0046.JPEG,severe,severe,0.73539025,0.02435249,0.24025728,0.73539025
+data/raw/data3a/validation/03-severe/0047.JPEG,severe,severe,0.61220109,0.04664552,0.34115335,0.61220109
+data/raw/data3a/validation/03-severe/0048.jpeg,severe,severe,0.66274852,0.16435166,0.17289986,0.66274852
+data/raw/data3a/validation/03-severe/0049.JPEG,severe,severe,0.8557573,0.0007211,0.14352164,0.8557573
+data/raw/data3a/validation/03-severe/0050.JPEG,severe,moderate,0.81799841,0.04728233,0.81799841,0.13471927
+data/raw/data3a/validation/03-severe/0051.JPEG,severe,severe,0.91244256,0.00404642,0.08351107,0.91244256
+data/raw/data3a/validation/03-severe/0052.JPEG,severe,moderate,0.74961382,0.12481372,0.74961382,0.12557246
+data/raw/data3a/validation/03-severe/0053.JPEG,severe,moderate,0.53068388,0.27321801,0.53068388,0.19609813
+data/raw/data3a/validation/03-severe/0054.JPEG,severe,severe,0.99536514,4.736e-05,0.00458744,0.99536514
+data/raw/data3a/validation/03-severe/0055.JPEG,severe,severe,0.74127662,0.03734421,0.22137915,0.74127662
+data/raw/data3a/validation/03-severe/0056.JPEG,severe,severe,0.65408593,0.02383279,0.32208133,0.65408593
+data/raw/data3a/validation/03-severe/0057.JPEG,severe,severe,0.85013652,0.00243435,0.14742914,0.85013652
+data/raw/data3a/validation/03-severe/0058.JPEG,severe,severe,0.93257272,0.05880434,0.00862294,0.93257272
+data/raw/data3a/validation/03-severe/0059.JPEG,severe,minor,0.52163929,0.52163929,0.30119592,0.17716482
+data/raw/data3a/validation/03-severe/0060.JPEG,severe,severe,0.8826052,0.07744142,0.03995336,0.8826052
+data/raw/data3a/validation/03-severe/0061.JPEG,severe,moderate,0.50190812,0.10698468,0.50190812,0.39110729
+data/raw/data3a/validation/03-severe/0062.JPEG,severe,severe,0.71146721,0.05649689,0.23203598,0.71146721
+data/raw/data3a/validation/03-severe/0063.JPEG,severe,severe,0.90215862,0.03065339,0.06718802,0.90215862
+data/raw/data3a/validation/03-severe/0064.JPEG,severe,severe,0.40453154,0.29397112,0.30149734,0.40453154
+data/raw/data3a/validation/03-severe/0065.JPEG,severe,severe,0.45818043,0.43479633,0.10702331,0.45818043
+data/raw/data3a/validation/03-severe/0066.JPEG,severe,moderate,0.64724493,0.03185629,0.64724493,0.32089883
+data/raw/data3a/validation/03-severe/0067.JPEG,severe,severe,0.88382477,0.03419935,0.08197593,0.88382477
+data/raw/data3a/validation/03-severe/0068.JPEG,severe,severe,0.90950143,0.01244143,0.07805721,0.90950143
+data/raw/data3a/validation/03-severe/18bb5127b4054506bf0b9779b2b1899f_thb.jpg,severe,moderate,0.56850266,0.2341312,0.56850266,0.19736621
+data/raw/data3a/validation/03-severe/22902b00ea70402fab96a350f87cf944_thb.jpg,severe,severe,0.48059198,0.12222097,0.39718708,0.48059198
+data/raw/data3a/validation/03-severe/46ba5d744b2d4ce9ac2192cbc340cf56_thb.jpg,severe,severe,0.89805096,0.01427412,0.08767492,0.89805096
+data/raw/data3a/validation/03-severe/482557ac6c1447b284fe6224b7266f55_thb.jpg,severe,moderate,0.56555146,0.10160597,0.56555146,0.33284259
+data/raw/data3a/validation/03-severe/6d36ca8f8e5142b999d24142028c8a3a_thb.jpg,severe,severe,0.5538047,0.1025621,0.34363323,0.5538047
+data/raw/data3a/validation/03-severe/808a08e850f248c6a3ec2aa5f899a5a0_thb.jpg,severe,severe,0.91315591,0.01005996,0.0767841,0.91315591
+data/raw/data3a/validation/03-severe/c3d15ce7351047aaba68bba9a1b862bc_thb.jpg,severe,moderate,0.54208857,0.21367456,0.54208857,0.24423689
+data/raw/data3a/validation/03-severe/c79ee24df16548469dfdb44f154f9887_thb.jpg,severe,severe,0.76125365,0.07130563,0.16744073,0.76125365
+data/raw/data3a/validation/03-severe/debd51e9643448fcbb0f303c9e0d7063_thb.jpg,severe,severe,0.88520414,0.02553633,0.08925956,0.88520414
+data/raw/data3a/validation/03-severe/download (1).jpeg,severe,severe,0.8425768,0.03012658,0.12729658,0.8425768
+data/raw/data3a/validation/03-severe/download (17).jpeg,severe,severe,0.99220759,0.00081939,0.006973,0.99220759
+data/raw/data3a/validation/03-severe/download (2).jpeg,severe,severe,0.76652032,0.00098625,0.23249352,0.76652032
+data/raw/data3a/validation/03-severe/download (23).jpeg,severe,severe,0.98146993,0.00032005,0.01821002,0.98146993
+data/raw/data3a/validation/03-severe/download (31).jpeg,severe,severe,0.99732792,6.767e-05,0.00260438,0.99732792
+data/raw/data3a/validation/03-severe/download (5).jpeg,severe,severe,0.75802219,0.07193991,0.17003787,0.75802219
+data/raw/data3a/validation/03-severe/download (6).jpeg,severe,severe,0.98992503,0.00082386,0.00925105,0.98992503
+data/raw/data3a/validation/03-severe/ff6f1e2cd433470f94e54c7aeb7da545_thb.jpg,severe,severe,0.80788428,0.01784932,0.1742664,0.80788428
+data/raw/data3a/validation/03-severe/images (28).jpeg,severe,severe,0.82074821,0.05503082,0.12422102,0.82074821
+data/raw/data3a/validation/03-severe/images (44).jpeg,severe,severe,0.91799551,0.01441601,0.06758852,0.91799551
+data/raw/data3a/validation/03-severe/images (53).jpeg,severe,severe,0.82475889,0.06508178,0.11015926,0.82475889
+data/raw/data3a/validation/03-severe/images - 2022-12-12T151413.288.jpeg,severe,severe,0.96878719,4.566e-05,0.03116721,0.96878719
+data/raw/data3a/validation/03-severe/images - 2022-12-12T151418.948.jpeg,severe,severe,0.98353851,0.00377866,0.01268281,0.98353851
+data/raw/data3a/validation/03-severe/images.jpeg,severe,severe,0.93527889,0.00332244,0.06139866,0.93527889

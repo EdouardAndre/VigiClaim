@@ -1,0 +1,10 @@
+.git
+.next
+node_modules
+.env
+.env.*
+npm-debug.log*
+*.log
+.DS_Store
+coverage
+reports/custom-vision-docker-export.zip

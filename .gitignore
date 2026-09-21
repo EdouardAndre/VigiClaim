@@ -1,0 +1,22 @@
+# Dependencies and build output
+node_modules/
+.next/
+out/
+coverage/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and operating-system files
+*.log
+.DS_Store
+
+# Generated Custom Vision export archive
+reports/custom-vision-docker-export.zip
+
+# Third-party assets and derived model artefacts
+data/
+public/images/
+customvision-docker/app/model.tflite

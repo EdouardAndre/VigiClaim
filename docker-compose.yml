@@ -1,0 +1,29 @@
+services:
+  app:
+    build:
+      context: .
+    environment:
+      VISION_DOCKER_URL: http://vision-analyser/image
+      AGENT_SERVICE_URL: http://agent:8000/investigate
+    ports:
+      - "3000:3000"
+    depends_on:
+      - agent
+      - vision-analyser
+
+  vision-analyser:
+    build:
+      context: ./customvision-docker
+    ports:
+      - "8080:80"
+
+  agent:
+    build:
+      context: ./agent
+    environment:
+      OLLAMA_HOST: http://host.docker.internal:11434
+      OLLAMA_MODEL: qwen3.5:9b
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    ports:
+      - "8000:8000"

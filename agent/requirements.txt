@@ -1,0 +1,6 @@
+fastapi
+mcp
+mcp-server-fetch
+ollama
+uvicorn[standard]
+semantic-kernel
